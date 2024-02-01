@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,|ES| M LALIGA TV FHD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/1083
+#EXTINF:-1,|ES| M LALIGA TV HD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/11329
+#EXTINF:-1,|ES| M+ LaLigaTV UHD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/462587
+#EXTINF:-1,|ES| M+ LaLigaTV UHD FHD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/462586
+#EXTINF:-1,|ES| M LALIGA BAR HD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/623
+#EXTINF:-1,|ES| M LALIGA BAR FHD
+http://premium.pro4ott.com:8789/graccsgb/qegrthc/116173
 #EXTINF:-1,|ES| LA LIGA HYPERMOTION FHD
 http://premium.pro4ott.com:8789/graccsgb/qegrthc/249739
 #EXTINF:-1,|ES| LA LIGA HYPERMOTION  HD
@@ -33,18 +45,6 @@ http://premium.pro4ott.com:8789/graccsgb/qegrthc/305517
 http://premium.pro4ott.com:8789/graccsgb/qegrthc/462634
 #EXTINF:-1,|ES| M+ Ellas #V HD
 http://premium.pro4ott.com:8789/graccsgb/qegrthc/462633
-#EXTINF:-1,|ES| M LALIGA TV FHD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/1083
-#EXTINF:-1,|ES| M LALIGA TV HD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/11329
-#EXTINF:-1,|ES| M+ LaLigaTV UHD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/462587
-#EXTINF:-1,|ES| M+ LaLigaTV UHD FHD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/462586
-#EXTINF:-1,|ES| M LALIGA BAR HD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/623
-#EXTINF:-1,|ES| M LALIGA BAR FHD
-http://premium.pro4ott.com:8789/graccsgb/qegrthc/116173
 #EXTINF:-1,|ES| M. LaLIga 1 (event only)
 http://premium.pro4ott.com:8789/graccsgb/qegrthc/37088
 #EXTINF:-1,|ES| M. LaLIga 2 FHD (event only)
